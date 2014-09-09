@@ -1,0 +1,58 @@
+.greeting p {
+	font-family: sans-serif;
+	font-size: 150px;
+	width:40%;
+	height:300px;
+	background-color: gray;
+	padding-top: 75px;
+	margin: 0px 350px 0px 350px;
+	text-align: center;
+
+	}
+
+
+.scroll p {
+	font-family: sans-serif;
+	font-size: 30px;
+	width: 40%;
+	height: 70px;
+	text-align: center;
+	background-color: white;
+	margin: 35px 350px 0px 350px;
+}
+
+.black {
+	width:40%;
+	height:100px;
+	background-color: black;
+	margin: 0px 350px 0px 350px;
+}
+
+.red {
+	width:40%;
+	height:100px;
+	background-color: red;
+	margin: 0px 350px 0px 350px;
+}
+
+.blue {
+	width:40%;
+	height:100px;
+	background-color: blue;
+	margin: 0px 350px 0px 350px;
+}
+
+.purple {
+	width:40%;
+	height:100px;
+	background-color: purple;
+	margin: 0px 350px 0px 350px;
+}
+
+.gray {
+	width:40%;
+	height:100px;
+	background-color: gray;
+	margin: 0px 350px 0px 350px;
+}
+
