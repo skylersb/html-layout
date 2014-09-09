@@ -1,0 +1,29 @@
+.blue {
+	width:33%;
+	height:700px;
+	background-color: blue;
+	display: block;
+	float:left;
+}
+.red {
+	width:33%;
+	height:700px;
+	background-color: red;
+	display: block;
+	float:left;
+}
+
+.black {
+	width:33%;
+	height:500px;
+	background-color: black;
+	display: block;
+	float: left;
+}
+
+.pic {
+	width: 33%;
+	height: 200px;
+	
+	
+}
